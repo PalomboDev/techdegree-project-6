@@ -6,13 +6,11 @@ Project Name: Static Node.js and Express Site
 Hosted Version: https://palombodev.github.io/techdegree-project-6/
 
 Style Changes I made:
-
-  Changed the sidebar color
-  Changed button colors
-  Changed text colors on projects in root 
+  1. Changed the sidebar color
+  2. Changed button colors
+  3. Changed text colors on projects in root 
 
 Expectations I Exceeded:
-
-  Added "npm start" command
-  Error message displays error.message, error.status, anderror.stack
-  Style Changes
+  1. Added "npm start" command
+  2. Error message displays error.message, error.status, anderror.stack
+  3. Style Changes
