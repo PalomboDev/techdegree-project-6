@@ -13,31 +13,28 @@ html(class="no-js" lang="en" dir="ltr")
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
           br
-          .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
           .cell.auto
-
-            //- Add your name here.
-            h5 Name
-
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
+            h5 Colin Palombo
             p.text-light
-              | Description
-
-            //- Add about page route to the href below. 
-            a(href='') Learn More →
+              | Hello. I am Colin Palombo. I am a FullStack Developer of many
+              | languages & technologies. I am familiar with Java, many JavaScript frameworks,
+              | multiple different types of databases, and so much more! Click "Learn More"
+              | below to get a better gist of who I am!
+            a(href='/about') Learn More →
+            br
+            br
+            p.text-light
+              | colin.palombo@yahoo.com
+            p.text-light
+              | (337) 517-7393
 
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
-
-          //- Add your name here.  This is for the mobile screen sized version.
-          span.title-bar-title Name
+          span.title-bar-title Colin Palombo
       block content
-        
 
-      
   script(src='/static/js/vendor/jquery.js')
   script(src='/static/js/vendor/what-input.js')
   script(src='/static/js/vendor/foundation.js')

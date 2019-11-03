@@ -31,7 +31,7 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: #1b1b88;
 }
 
 .button:hover{
@@ -58,7 +58,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #1b1b88;
   color: #fff;
   box-shadow: none !important;
 }
@@ -117,7 +117,7 @@ a:hover{
   }
 
   .portfolio-index a{
-    color: #222;
+    color: #1b1b88;
   }
 
   .portfolio-index .cell{

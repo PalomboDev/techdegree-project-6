@@ -1,0 +1,25 @@
+{
+  "name": "techdegree-project-6",
+  "version": "0.1.0",
+  "description": "Express/Node/Pug Portfolio Site",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalomboDev/techdegree-project-6.git"
+  },
+  "author": "Colin Palombo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalomboDev/techdegree-project-6/issues"
+  },
+  "homepage": "https://github.com/PalomboDev/techdegree-project-6#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "pug": "^2.0.4"
+  }
+}

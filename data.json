@@ -1,0 +1,117 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "TODO",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://palombodev.github.io/techdegree-project-1/",
+            "github_link": "https://github.com/PalomboDev/techdegree-project-1",
+            "main_image": "/static/images/random-quote-generator/picture-1.png",
+            "image_urls": [
+                "/static/images/random-quote-generator/picture-1.png",
+                "/static/images/random-quote-generator/picture-2.png",
+                "/static/images/random-quote-generator/picture-3.png"
+            ]
+        },
+        {
+            "id": "1",
+            "project_name": "List Pagination and Filtering",
+            "description": "TODO",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://palombodev.github.io/techdegree-project-2/",
+            "github_link": "https://github.com/PalomboDev/techdegree-project-2",
+            "main_image": "/static/images/list-pagination-and-filtering/picture-1.png",
+            "image_urls": [
+                "/static/images/list-pagination-and-filtering/picture-1.png",
+                "/static/images/list-pagination-and-filtering/picture-2.png",
+                "/static/images/list-pagination-and-filtering/picture-3.png"
+            ]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive Form",
+            "description": "TODO",
+            "technologies": [
+                "JavaScript",
+                "jQuery",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://palombodev.github.io/techdegree-project-3/",
+            "github_link": "https://github.com/PalomboDev/techdegree-project-3",
+            "main_image": "/static/images/interactive-form/picture-1.png",
+            "image_urls": [
+                "/static/images/interactive-form/picture-1.png",
+                "/static/images/interactive-form/picture-2.png",
+                "/static/images/interactive-form/picture-3.png"
+            ]
+        },
+        {
+            "id": "3",
+            "project_name": "OOP Game Show App",
+            "description": "TODO",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://palombodev.github.io/techdegree-project-4/",
+            "github_link": "https://github.com/PalomboDev/techdegree-project-4",
+            "main_image": "/static/images/oop-game-show-app/picture-1.png",
+            "image_urls": [
+                "/static/images/oop-game-show-app/picture-1.png",
+                "/static/images/oop-game-show-app/picture-2.png",
+                "/static/images/oop-game-show-app/picture-3.png"
+            ]
+        },
+        {
+            "id": "4",
+            "project_name": "Public API Requests Employee Directory",
+            "description": "TODO",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://palombodev.github.io/techdegree-project-5/",
+            "github_link": "https://github.com/PalomboDev/techdegree-project-5",
+            "main_image": "/static/images/public-api-requests/picture-1.png",
+            "image_urls": [
+                "/static/images/public-api-requests/picture-1.png",
+                "/static/images/public-api-requests/picture-2.png",
+                "/static/images/public-api-requests/picture-3.png"
+            ]
+        },
+        {
+            "id": "5",
+            "project_name": "Flashcards Node/Express Site",
+            "description": "TODO",
+            "technologies": [
+                "JavaScript",
+                "Node.js",
+                "Express",
+                "Pug",
+                "NPM",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://github.com/PalomboDev/flashcards-node-express-site",
+            "github_link": "https://github.com/PalomboDev/flashcards-node-express-site",
+            "main_image": "/static/images/flashcards-express-site/picture-1.png",
+            "image_urls": [
+                "/static/images/flashcards-express-site/picture-1.png",
+                "/static/images/flashcards-express-site/picture-2.png",
+                "/static/images/flashcards-express-site/picture-3.png"
+            ]
+        }
+    ]
+}

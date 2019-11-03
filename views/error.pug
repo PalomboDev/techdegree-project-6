@@ -1,0 +1,7 @@
+extends layout.pug
+
+block content
+  section.desk
+    h1= `${error.message} - Status: ${error.status}`
+    a(href='/') Go Home
+    pre= error.stack
