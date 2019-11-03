@@ -7,12 +7,12 @@ Hosted Version: https://palombodev.github.io/techdegree-project-6/
 
 Style Changes I made:
 
-Changed the sidebar color
-Changed button colors
-Changed text colors on projects in root 
+  Changed the sidebar color
+  Changed button colors
+  Changed text colors on projects in root 
 
 Expectations I Exceeded:
 
-Added "npm start" command
-Error message displays error.message, error.status, anderror.stack
-Style Changes
+  Added "npm start" command
+  Error message displays error.message, error.status, anderror.stack
+  Style Changes
