@@ -12,5 +12,5 @@ Style Changes I made:
 
 Expectations I Exceeded:
   1. Added "npm start" command
-  2. Error message displays error.message, error.status, anderror.stack
+  2. Error message displays error.message, error.status, and error.stack
   3. Style Changes
