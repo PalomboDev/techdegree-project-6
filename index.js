@@ -14,8 +14,13 @@ app.get("/about", (req, res) => {
     res.render("about.pug");
 });
 
-app.get("/projects/:id", (req, res) => {
+app.get("/projects/:id", (req, res, next) => {
     const {id} = req.params;
+
+    if (projects[id] === undefined) {
+        return next();
+    }
+
     const project = projects[id];
 
     res.render("project.pug", {project: project});
@@ -32,6 +37,8 @@ app.use((err, req, res, next) => {
     res.locals.error = err;
     res.status(err.status);
     res.render("error", err);
+
+    console.log(`Error! Message: ${err.message} Code: ${err.status} Url: ${req.originalUrl}`);
 });
 
 app.listen(port, () => console.log(`Server Started. Listening on port: ${port}`));
